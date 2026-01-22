@@ -7,6 +7,7 @@ This project analyzes global aviation trends, including airline performance, pas
 
 This Power BI project explores decades of global aviation accident data, uncovering patterns behind fatal accidents, operator performance, and safety improvements. By analyzing over a century of aviation history, this project highlights how technology, regulations, and industry practices have transformed aviation safety.
 <img width="1210" height="665" alt="Screenshot 2025-10-30 133026" src="https://github.com/user-attachments/assets/f0c031c8-264d-4f99-a33b-92d572bc06e8" />
+https://app.powerbi.com/groups/me/reports/a04c9dbc-1660-4488-bad5-2eb280feb099?ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&pbi_source=linkShare
 
 
 ---
