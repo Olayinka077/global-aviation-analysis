@@ -55,9 +55,8 @@ The aviation industry’s journey from high-risk to high-safety is a story best 
 
 ## 🛠 Tools & Technologies
 
-- **Power BI:** Data visualization and dashboards  
-- **Python / Pandas / NumPy / Matplotlib / Seaborn:** Data cleaning, analysis, and visual exploration (if used)  
-- **SQL:** Querying aviation datasets (if used)  
+- **Power BI:** Data visualization and dashboards   
+- **SQL:** Querying aviation datasets  
 - **Git & GitHub:** Version control and project documentation
 
 
