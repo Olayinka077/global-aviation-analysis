@@ -15,10 +15,15 @@ How has global aviation safety changed over time, and what factors have contribu
 Objectives
 
 -The main goals of this analysis were to:
+
 -Examine historical trends in aviation accidents and fatalities
+
 -Identify periods of high risk and major improvements in safety
+
 -Analyze accident distribution across regions and operators
+
 -Understand the relationship between accident frequency and fatal outcomes
+
 -Communicate findings clearly through an interactive Power BI dashboard
 
 <img width="1210" height="665" alt="Screenshot 2025-10-30 133026" src="https://github.com/user-attachments/assets/f0c031c8-264d-4f99-a33b-92d572bc06e8" />
@@ -34,8 +39,11 @@ https://app.powerbi.com/groups/me/reports/a04c9dbc-1660-4488-bad5-2eb280feb099?c
 - **Aircraft & operators:** Douglas C-47 aircraft and military operators accounted for a significant share of historical incidents.  
 - **Safety progress:** Since the 1990s, fatal accidents and fatalities have dropped sharply, reflecting advancements in aircraft engineering and stricter safety protocols.  
 - **Overall impact:** Despite over 9,000 fatal accidents and 128,000 fatalities, the fatality rate per accident has decreased drastically in recent decades.
+  
 - Despite recording over 9,000 fatal accidents historically, global aviation safety has improved dramatically.
+  
 -Fatality rates have decreased even as air travel volume increased.
+
 -Safety improvements are not accidental — they are the result of data‑driven regulation, engineering, and accountability.
 
   <img width="1208" height="672" alt="Screenshot 2025-10-30 133041" src="https://github.com/user-attachments/assets/6d57aea8-131e-4943-b3ff-70865c68f294" />
@@ -62,10 +70,15 @@ The aviation industry’s journey from high-risk to high-safety is a story best 
 
 ## Dashboard Highlights
 The Power BI dashboard includes:
--Time‑series charts showing accident and fatality trends
--Geographic maps visualizing global accident distribution
--Operator ranking visuals
--KPIs summarizing total accidents, fatalities, and improvement rates
+
+-Time‑series charts showing accident and fatality trends.
+
+-Geographic maps visualizing global accident distribution.
+
+-Operator ranking visuals.
+
+-KPIs summarizing total accidents, fatalities, and improvement rates.
+
 -The dashboard is interactive, allowing users to filter by year, region, and operator for deeper exploration.
 
 ## Conclusion
